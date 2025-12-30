@@ -147,8 +147,8 @@ def tarea_3_crear_mapeo_formato_custom():
                     if old_url and new_url:
                         # Construimos las cadenas EXACTAS que pides
                         # Usamos comillas dobles para el HTML
-                        key = f'href="{old_url}"'
-                        value = f'href="{new_url}"'
+                        key = f'src="{old_url}"'
+                        value = f'src="{new_url}"'
                         mapeo_items.append((key, value))
         
         # --- ESCRITURA MANUAL DEL ARCHIVO ---
