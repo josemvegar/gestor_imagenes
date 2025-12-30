@@ -1,0 +1,13 @@
+# Ignorar todo
+*
+
+# Excepto estos archivos específicos
+!3_mapeo_final.py.txt
+!4_errores_404.json
+!1_listado_nuevas.json
+!2_pares_alineados.csv
+!4_errores_404.csv
+!1_listado_imagenes.csv
+!antiguas.csv
+!gestor_imagenes.py
+!.gitignore
